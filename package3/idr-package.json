@@ -1,0 +1,8 @@
+{
+    "name": "package3",
+    "source_dir": "src",
+    "executable": false,
+    "dependencies": [
+      "test_dependency1"
+    ]
+}
