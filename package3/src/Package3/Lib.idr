@@ -1,7 +1,9 @@
-module Lib
+module Package3.Lib
 
 import Package1.Lib
 import Package2.Lib
+
+%access export
 
 ||| Library function, to be replaced with actual code.
 testFunc3 : String
