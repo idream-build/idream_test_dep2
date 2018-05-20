@@ -7,4 +7,4 @@ import Package2.Lib
 
 ||| Library function, to be replaced with actual code.
 testFunc3 : String
-testFunc3 = testFunc1 ++ testFunc2
+testFunc3 = myFunc1 ++ myFunc2
