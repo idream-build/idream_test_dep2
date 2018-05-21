@@ -3,6 +3,7 @@
     "source_dir": "src",
     "executable": false,
     "dependencies": [
-      "test_dependency1"
+      {"project": "test_dependency1", "package": "package1"},
+      {"project": "test_dependency1", "package": "package2"}
     ]
 }
