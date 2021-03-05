@@ -1,9 +1,9 @@
 {
     "name": "package3",
-    "source_dir": "src",
-    "executable": false,
-    "dependencies": [
-      {"project": "test_dependency1", "package": "package1"},
-      {"project": "test_dependency1", "package": "package2"}
+    "type": "library",
+    "sourcedir": "src",
+    "depends": [
+      "package1",
+      "package2"
     ]
 }

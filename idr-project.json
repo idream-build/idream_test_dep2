@@ -1,6 +1,6 @@
 {
-    "packages": [
+    "name": "test_dependency2",
+    "paths": [
         "package3"
-    ],
-    "project_name": "test_dependency2"
+    ]
 }
